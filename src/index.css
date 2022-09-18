@@ -1,13 +1,108 @@
+/* * {
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0 !important;
+} */
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale; */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.nav {
+  background-color: rgb(21, 21, 43);
+  color: whitesmoke !important;
+  }
+  #logo {
+    color: whitesmoke;
+    margin-left: 10px;
+    
+  }
+  .btnlog {
+    background-color: rgb(21, 21, 43) !important;
+    border: 1px solid brown !important;
+  }
+.link1 {
+  color: whitesmoke !important;
+  margin: 0 10px;
+}
+.link1:hover{
+  background-color: brown !important;
+  border-radius: 7px;
+}
+.lkgs:hover {
+background-color: rgb(10, 112, 10) !important;
+}
+.lk1 {
+  margin-left: 450px;
+}
+.lk2 {
+  margin-left: 10px;
+  border: 2px solid brown;
+  border-radius: 7px;
+ }
+ .lk3 {
+  margin-left: 10px;
+  background-color: brown !important; 
+  border-radius: 7px;
+ }
+ .sliderHeight {
+  max-height: 80vh;
+ }
+ .imgHeight {
+  height: 80vh;
+ }
+ .abt {
+  max-width: 200px;
+  margin: 0 auto !important;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: 300;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .background {
+  background-color: rgb(21, 21, 43) !important;
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8)50%, rgba(0, 0, 0, 0.8)50%), url(./Images/login.jpg)!important;
+  background-position: center !important;
+  background-size: cover !important;
+  height: calc(100vh - 86px) !important;
+  }
+ .footer {
+  background-color: rgb(21, 21, 43);
+  color: rgb(173, 169, 169) !important;
+  font-size: 10px;
+  padding-top: 1px;
+ }
+ .btnsub {
+  background-color: brown !important;
+  border: none !important;
+ }
+.works {
+  max-width: 450px !important;
+  
+} 
+.txt {
+  text-align: center;
+  text-decoration: underline;
+}
+.card {
+  max-height: 450px !important;
+}
+.margin {
+  margin: 0 50px;
+}
+.parah {
+  text-align: justify;
+}
+.form1 {
+margin-left: 50px !important;
+
+}
+.butlog {
+  width: 100px;
+  margin-left: 70px;
 }
