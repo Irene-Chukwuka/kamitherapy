@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kamitherapy/static/css/main.f833437b.css",
-    "main.js": "/kamitherapy/static/js/main.dd46f8d7.js",
+    "main.js": "/kamitherapy/static/js/main.c44bc48e.js",
     "static/js/787.12a6aeef.chunk.js": "/kamitherapy/static/js/787.12a6aeef.chunk.js",
     "static/media/login.jpg": "/kamitherapy/static/media/login.bb505d8c86beaf2cb453.jpg",
     "static/media/slider4.jpg": "/kamitherapy/static/media/slider4.a2a1f303c821383dd075.jpg",
@@ -12,11 +12,11 @@
     "static/media/talk.png": "/kamitherapy/static/media/talk.78580ffe7eb5e7300a7a.png",
     "index.html": "/kamitherapy/index.html",
     "main.f833437b.css.map": "/kamitherapy/static/css/main.f833437b.css.map",
-    "main.dd46f8d7.js.map": "/kamitherapy/static/js/main.dd46f8d7.js.map",
+    "main.c44bc48e.js.map": "/kamitherapy/static/js/main.c44bc48e.js.map",
     "787.12a6aeef.chunk.js.map": "/kamitherapy/static/js/787.12a6aeef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f833437b.css",
-    "static/js/main.dd46f8d7.js"
+    "static/js/main.c44bc48e.js"
   ]
 }
