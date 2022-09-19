@@ -10,7 +10,7 @@ const CarouselComponent = () => {
             <Carousel.Item className='sliderHeight'>
                 <img
                     className="d-block w-100 imgHeight"
-                    src={slider1}
+                    src='.Images/slider1.jpg'
                     alt="First slide"
                 />
                 <Carousel.Caption>
